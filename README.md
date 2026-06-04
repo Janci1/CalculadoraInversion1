@@ -66,7 +66,7 @@ Business Planner v2.0 es una aplicación diseñada para ayudarte a gestionar y s
 ## Instalación y Ejecución
 
 1.  Clona el repositorio: `git clone [URL_DEL_REPOSITORIO]`
-2.  Navega al directorio del proyecto: `cd calculadora-precios`
+2.  Navega al directorio del proyecto: `cd CalculadoraInversion1`
 3.  Instala las dependencias: `npm install` o `yarn install`
 4.  Inicia el servidor de desarrollo: `npm run dev` o `yarn dev`
 5.  Abre tu navegador en `http://localhost:5173` (o el puerto que indique Vite).
